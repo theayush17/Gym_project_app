@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957183704544",
+    "project_id": "gym-app-5f476",
+    "storage_bucket": "gym-app-5f476.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957183704544:android:24b37395f1c176770eff85",
+        "android_client_info": {
+          "package_name": "com.example.ecogym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957183704544-jq6fhrhqfsq5o705gkt7a85vvsgm3iaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29iL6b8buHe6IvkrfSZM5IN7UOsZAR4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957183704544-jq6fhrhqfsq5o705gkt7a85vvsgm3iaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
