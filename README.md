@@ -170,10 +170,11 @@ Planned improvements include:
 
 ---
 
-## 📥 Download OffGym App  
-You can download the latest version of the OffGym mobile application from the GitHub Releases page.
+## ## 📥 Download OffGym App
 
-👉 [Download OffGym APK](https://github.com/theayush17/Gym_project_app/releases)
+Download the latest Android version of the OffGym mobile application.
+
+👉 [Download OffGym v1.0 APK](https://github.com/theayush17/Gym_project_app/releases/download/v1.0/OffGym-v1.0.apk)
 
 ---
 
