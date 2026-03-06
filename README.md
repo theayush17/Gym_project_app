@@ -1,6 +1,6 @@
-# 🏋️ EcoGym – Gym Management Mobile Application
+# 🏋️ Gym Management Mobile Application
 
-EcoGym is a **Flutter-based gym management mobile app** designed to help gym owners efficiently manage members, subscriptions, and membership data.
+This Gym_project_app is a **Flutter-based gym management mobile app** designed to help gym owners efficiently manage members, subscriptions, and membership data.
 
 The application integrates **Firebase Authentication** for secure login and **Cloud Firestore** for storing user and membership information.
 
@@ -172,7 +172,7 @@ Planned improvements include:
 
 # 👨‍💻 Author
 
-**Ayush**
+**Ayush Kumar Singh**
 
 Flutter Developer | Frontend Developer
 
