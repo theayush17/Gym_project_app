@@ -174,7 +174,9 @@ Planned improvements include:
 
 You can download the latest version of the EcoGym mobile application from the GitHub Releases page.
 
-👉 [Download EcoGym APK]([https://github.com/theayush17/Gym_project_app/releases](https://github.com/theayush17/Gym_project_app/releases/download/v1.0/OffGym-v1.0.apk))
+👉 [Download EcoGym APK](https://github.com/theayush17/Gym_project_app/releases](https://github.com/theayush17/Gym_project_app/releases/download/v1.0/OffGym-v1.0.apk)
+
+---
 
 # 👨‍💻 Author
 
