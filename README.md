@@ -170,7 +170,7 @@ Planned improvements include:
 
 ---
 
-## ## 📥 Download OffGym App
+## 📥 Download OffGym App
 
 Download the latest Android version of the OffGym mobile application.
 
