@@ -154,7 +154,9 @@ flutter run
 
 # 📥 Download APK
 
-The APK file can be downloaded from the **Releases section** of this repository.
+[Download OffGym v1.0 APK](https://github.com/theayush17/Gym_project_app/releases/download/v1.0/OffGym-v1.0.apk)
+
+The APK file can also be downloaded from the **Releases section** of this repository.
 
 ---
 
@@ -167,14 +169,6 @@ Planned improvements include:
 * Push Notifications
 * Admin Analytics Dashboard
 * QR Code Based Gym Check-in
-
----
-
-## 📥 Download OffGym App
-
-Download the latest Android version of the OffGym mobile application.
-
-👉 [Download OffGym v1.0 APK](https://github.com/theayush17/Gym_project_app/releases/download/v1.0/OffGym-v1.0.apk)
 
 ---
 
