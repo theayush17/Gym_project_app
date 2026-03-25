@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'EcoGym',
+      title: 'OffGym',
       routes: AppRoutes.routes,
       home: const AuthGate(),
     );
